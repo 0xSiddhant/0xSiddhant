@@ -3,7 +3,7 @@ on:
     - cron: '0 */24 * * *' # every 12 hours
   push:
     branches:
-      - master
+      - main
 jobs:
   publish:
     runs-on: ubuntu-latest
