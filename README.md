@@ -1,6 +1,12 @@
-Joined Github 4 years ago.
+### Hi there I'm Siddhant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> currently working at [Webkul](https://webkul.com/)!
 
-Since then I pushed **1118** commits, opened **1** issues, submitted **10** pull requests, received **{{ STARS }**} stars across **20** personal projects.
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about anything related to tech, I'm happy to help.
+- 📫 How to reach me: @its_me_siddhant
+
+- Joined Github 4 years ago.
+
+Since then I pushed **1119** commits, opened **1** issues, submitted **10** pull requests, received **2** stars across **20** personal projects.
 
 Most used languages across my projects:
 
