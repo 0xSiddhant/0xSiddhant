@@ -4,7 +4,7 @@
 - 💬 Ask me about anything related to tech, I'm happy to help.
 - 📫 How to reach me: @its_me_siddhant
 
-- Joined Github 4 years ago.
+- Joined Github 5 years ago.
 
 Since then I pushed **1263** commits, opened **2** issues, submitted **10** pull requests, received **3** stars across **30** personal projects.
 
