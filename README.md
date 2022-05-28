@@ -6,11 +6,11 @@
 
 - Joined Github 5 years ago.
 
-Since then I pushed **1301** commits, opened **2** issues, submitted **10** pull requests, received **23** stars across **32** personal projects.
+Since then I pushed **1302** commits, opened **2** issues, submitted **10** pull requests, received **24** stars across **32** personal projects.
 
 Most used languages across my projects:
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B136.6%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B136.5%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B117%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B114.1%25)
 ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%EF%B8%B18.7%25)
