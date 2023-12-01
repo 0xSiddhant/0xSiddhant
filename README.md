@@ -6,7 +6,7 @@ Hi there I'm Siddhant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 
 - Joined Github 7 years ago.
 
-Since then I pushed **1391** commits, opened **3** issues, submitted **12** pull requests, received **25** stars across **40** personal projects.
+Since then I pushed **1395** commits, opened **3** issues, submitted **12** pull requests, received **25** stars across **40** personal projects.
 
 Most used languages across my projects:
 
@@ -17,4 +17,4 @@ Most used languages across my projects:
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B15.2%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B14.6%25)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B13.5%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B19.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B19.8%25)
