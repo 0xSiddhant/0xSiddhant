@@ -1,9 +1,13 @@
+name: publish-readme
+
 on:
   schedule:
-    - cron: '0 */24 * * *' # every 12 hours
+    - cron: '0 */24 * * *' # every 24 hours (kept as in original)
   push:
     branches:
       - main
+  workflow_dispatch:        # manual trigger added (no inputs)
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -18,10 +22,10 @@ jobs:
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git pull
-        git add .
-        git commit -m "Update README"
-        git push
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull
+          git add .
+          git commit -m "Update README"
+          git push
         fi
