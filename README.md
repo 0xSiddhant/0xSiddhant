@@ -6,7 +6,7 @@ Hi there I'm Siddhant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 
 - Joined Github 9 years ago.
 
-Since then I pushed **1537** commits, opened **4** issues, submitted **13** pull requests, received **26** stars across **43** personal projects.
+Since then I pushed **1538** commits, opened **4** issues, submitted **13** pull requests, received **26** stars across **43** personal projects.
 
 Most used languages across my projects:
 
