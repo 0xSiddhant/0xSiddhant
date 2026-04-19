@@ -9,7 +9,7 @@
 ╚═╝ ╚═════╝ ╚══════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-# `SIDDHANT KUMAR`
+# `SIDDHANT`
 
 ### Senior iOS Engineer · Fintech · Real-Time Systems · Performance
 
@@ -60,8 +60,7 @@ struct SiddhantKumar {
 │                               Protobuf · Brotli · NATS SDK · Feature Flags
 │
 * 2022-2025     ████████████    Lead Engineer, iOS @ TravClan (Travel)
-│                               Led team of 4 · VIPER architecture · Flutter
-│                               99% crash-free · CI/CD · B2C app from scratch
+│                               CI/CD  · VIPER architecture · Flutter
 │
 * 2019-2022     ████████        iOS Developer @ Webkul (E-Commerce)
                                 10+ production apps · Component library
@@ -74,7 +73,7 @@ struct SiddhantKumar {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSiddhant&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1A9EDC&icon_color=1A9EDC&text_color=C9D1D9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xSiddhant&theme=dark&hide_border=true&background=0D1117&ring=1A9EDC&fire=1A9EDC&currStreakLabel=1A9EDC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSiddhant&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1A9EDC&text_color=C9D1D9)
 
